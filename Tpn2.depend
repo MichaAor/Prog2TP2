@@ -1,0 +1,67 @@
+# depslib dependency file v1.0
+1629681153 source:d:\este cuatri 3\programacion 2\resoluciones mias tp\tpn2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Menu.h"
+
+1629759706 d:\este cuatri 3\programacion 2\resoluciones mias tp\tpn2\menu.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1629848579 source:d:\este cuatri 3\programacion 2\resoluciones mias tp\tpn2\menu.c
+	"Menu.h"
+	"time.h"
+	"Ej1.h"
+	"Ej2.h"
+	"Ej3.h"
+	"Ej4.h"
+	"Ej5.h"
+	"Ej6.h"
+	"Ej7.h"
+	"Ej8.h"
+
+1629679689 d:\este cuatri 3\programacion 2\resoluciones mias tp\tpn2\ej1.h
+
+1629595219 source:d:\este cuatri 3\programacion 2\resoluciones mias tp\tpn2\ej1.c
+	"Menu.h"
+	"Ej1.h"
+
+1629664630 d:\este cuatri 3\programacion 2\resoluciones mias tp\tpn2\ej2.h
+
+1629664920 source:d:\este cuatri 3\programacion 2\resoluciones mias tp\tpn2\ej2.c
+	"Menu.h"
+	"Ej1.h"
+
+1629679728 d:\este cuatri 3\programacion 2\resoluciones mias tp\tpn2\ej3.h
+
+1629682316 source:d:\este cuatri 3\programacion 2\resoluciones mias tp\tpn2\ej3.c
+	"Menu.h"
+	"Ej3.h"
+
+1629679805 d:\este cuatri 3\programacion 2\resoluciones mias tp\tpn2\ej4.h
+
+1629751711 source:d:\este cuatri 3\programacion 2\resoluciones mias tp\tpn2\ej4.c
+	"Menu.h"
+
+1629759706 d:\este cuatri 3\programacion 2\resoluciones mias tp\tpn2\ej5.h
+
+1629760284 source:d:\este cuatri 3\programacion 2\resoluciones mias tp\tpn2\ej5.c
+	"Menu.h"
+
+1629760299 source:d:\este cuatri 3\programacion 2\resoluciones mias tp\tpn2\ej6.c
+	"Menu.h"
+
+1629766717 source:d:\este cuatri 3\programacion 2\resoluciones mias tp\tpn2\ej7.c
+	"Menu.h"
+
+1629760284 d:\este cuatri 3\programacion 2\resoluciones mias tp\tpn2\ej6.h
+
+1629766657 d:\este cuatri 3\programacion 2\resoluciones mias tp\tpn2\ej7.h
+
+1629847591 d:\este cuatri 3\programacion 2\resoluciones mias tp\tpn2\ej8.h
+
+1629850339 source:d:\este cuatri 3\programacion 2\resoluciones mias tp\tpn2\ej8.c
+	"Menu.h"
+	"Ej8.h"
+
